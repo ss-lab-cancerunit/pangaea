@@ -1,0 +1,8 @@
+site_name: Pangaea
+nav:
+    - Home: index.md
+    - Usage: usage.md
+    - Developing: code.md
+    - Postprocessing: postprocessing.md
+theme: readthedocs
+repo_url: https://gitlab.com/liviux/pangaea-test

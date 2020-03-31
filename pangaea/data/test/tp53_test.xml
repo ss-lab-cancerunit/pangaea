@@ -1,0 +1,955 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32030889</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1743-7563</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Feb</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Asia-Pacific journal of clinical oncology</Title>
+                <ISOAbbreviation>Asia Pac J Clin Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>TP53 mutations are associated with very complex karyotype and suggest poor prognosis in newly diagnosed myelodysplastic syndrome patients with monosomal karyotype.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/ajco.13316</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">The aim of this study was to evaluate the clinical and molecular characteristics of myelodysplastic syndrome (MDS) patients with monosomal karyotype (MK).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Eighty MDS patients with MK diagnosed between January 2010 and December 2018 were included in the retrospective study. Seventy-three had complex karyotype (CK) and 46 had very CK (vCK, ≥ 5 abnormalities). Clinical information was collected, and a panel of 37 genes, on which mutations have been previously reported to be associated with MDS patients, was analyzed by next-generation sequencing. Genetic and biological features and their association with survival were evaluated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Monosomy 5, 7, and 17 were the most frequent and mainly occurred in patients with vCK. While median overall survival (OS) for all patients was 12.8 months with 95% CI 9.1-16.5, patients with vCK had shorter OS (8.4 months with 95% CI 3.9-12.8) than those with non-vCK (16.1 months with 95% CI 11.5-20.8) (P = .02). At least one gene mutation was detected in 76 patients (95%), TP53 mutations were detected in 57 patients, and their median OS was significantly shorter than those without TP53 mutations (9.5 months with 95% CI 7.5-11.5 vs 26.1 months with 95% CI 8.0-44.2, P &lt; .01). In 34 patients who received treatment with decitabine, 25 with TP53 mutations had higher overall response rate than those with wild-type TP53 (60% vs 22.2%, P = .03). However, OS was still significantly shorter in those with TP53 mutations (10.1 vs 26.1 months, P = .03). Multivariate analysis confirmed that TP53 mutations was an independent poor prognostic factor on OS.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">CK and vCK overlap in most of the MDS patients with MK. TP53 mutations occur more frequently in MDS patients with vCK, and both TP53 mutations and vCK are adverse prognostic factors.</AbstractText>
+                <CopyrightInformation>© 2020 John Wiley &amp; Sons Australia, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ren</LastName>
+                    <ForeName>Yanling</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0874-7806</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Myelodysplastic Syndromes Diagnosis and Therapy Center, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jinghan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Hua</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Myelodysplastic Syndromes Diagnosis and Therapy Center, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mei</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Myelodysplastic Syndromes Diagnosis and Therapy Center, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ye</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Myelodysplastic Syndromes Diagnosis and Therapy Center, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Yingwan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Myelodysplastic Syndromes Diagnosis and Therapy Center, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Xinping</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Myelodysplastic Syndromes Diagnosis and Therapy Center, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Shuanghong</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Myelodysplastic Syndromes Diagnosis and Therapy Center, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Lingxu</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Myelodysplastic Syndromes Diagnosis and Therapy Center, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Lu</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Myelodysplastic Syndromes Diagnosis and Therapy Center, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Jie</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tong</LastName>
+                    <ForeName>Hongyan</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Myelodysplastic Syndromes Diagnosis and Therapy Center, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>81700121</GrantID>
+                    <Agency>National Natural Science Foundation of China</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>2017KY336</GrantID>
+                    <Agency>Zhejiang Medical and Health Science and Technology Projects</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Australia</Country>
+            <MedlineTA>Asia Pac J Clin Oncol</MedlineTA>
+            <NlmUniqueID>101241430</NlmUniqueID>
+            <ISSNLinking>1743-7555</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">TP53 mutations</Keyword>
+            <Keyword MajorTopicYN="N">monosomal karyotype</Keyword>
+            <Keyword MajorTopicYN="N">myelodysplastic syndrome</Keyword>
+            <Keyword MajorTopicYN="N">very complex karyotype</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32030889</ArticleId>
+            <ArticleId IdType="doi">10.1111/ajco.13316</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Title>REFERENCES</Title>
+            <Reference>
+                <Citation>Garcia-Manero G. Myelodysplastic syndromes: 2012 update on diagnosis, risk-stratification, and management. Am J Hematol. 2012;87(7):692-701.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Gangat N, Patnaik MM, Begna K, et al. Evaluation of revised IPSS cytogenetic risk stratification and prognostic impact of monosomal karyotype in 783 patients with primary myelodysplastic syndromes. Am J Hematol. 2013;88(8):690-693.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Yang YT, Hou HA, Liu CY, et al. IPSS-R in 555 Taiwanese patients with primary MDS: integration of monosomal karyotype can better risk-stratify the patients. Am J Hematol. 2014;89(9):E142-E149.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Breems DA, Van Putten WL, De Greef GE, et al. Monosomal karyotype in acute myeloid leukemia: a better indicator of poor prognosis than a complex karyotype. J Clin Oncol. 2008;26(29):4791-4797.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Xing R, Li C, Gale RP, et al. Monosomal karyotype is an independent predictor of survival in patients with higher-risk myelodysplastic syndrome. Am J Hematol. 2014;89(10):E163-E168.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>McQuilten ZK, Sundararajan V, Andrianopoulos N, et al. Monosomal karyotype predicts inferior survival independently of a complex karyotype in patients with myelodysplastic syndromes. Cancer. 2015;121(17):2892-2899.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Patnaik MM, Hanson CA, Hodnefield JM, Knudson R, Van Dyke DL, Tefferi A. Monosomal karyotype in myelodysplastic syndromes, with or without monosomy 7 or 5, is prognostically worse than an otherwise complex karyotype. Leukemia. 2011;25(2):266-270.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Schanz J, Tuchler H, Sole F, et al. Monosomal karyotype in MDS: explaining the poor prognosis? Leukemia. 2013;27(10):1988-1995.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Valcarcel D, Adema V, Sole F, et al. Complex, not monosomal, karyotype is the cytogenetic marker of poorest prognosis in patients with primary myelodysplastic syndrome. J Clin Oncol. 2013;31(7):916-922.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ren Y, Mei C, Ye L, et al. Analysis of clinical and molecular features of MDS patients with complex karyotype in China. Blood Cells Mol Dis. 2018;75:13-19.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Papaemmanuil E, Gerstung M, Malcovati L, et al. Clinical and biological implications of driver mutations in myelodysplastic syndromes. Blood. 2013;122(22):3616-3627. quiz 99.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Haider M, Duncavage EJ, Afaneh KF, Bejar R, List AF. New insight into the biology, risk stratification, and targeted treatment of myelodysplastic syndromes. Am Soc Clin Oncol Educ Book. 2017;37:480-494.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bejar R, Stevenson K, Abdel-Wahab O, et al. Clinical effect of point mutations in myelodysplastic syndromes. N Engl J Med. 2011;364(26):2496-2506.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zhang T, Xu Y, Pan J, et al. High frequency of RUNX1 mutation in myelodysplastic syndrome patients with whole-arm translocation of der(1;7)(q10;p10). Leukemia. 2017;31(10):2257-2260.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Fernandez-Mercado M, Burns A, Pellagatti A, et al. Targeted re-sequencing analysis of 25 genes commonly mutated in myeloid disorders in del(5q) myelodysplastic syndromes. Haematologica. 2013;98(12):1856-1864.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kulasekararaj AG, Smith AE, Mian SA, et al. TP53 mutations in myelodysplastic syndrome are strongly correlated with aberrations of chromosome 5, and correlate with adverse prognosis. Br J Haematol. 2013;160(5):660-672.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bejar R, Stevenson KE, Caughey B, et al. Somatic mutations predict poor outcome in patients with myelodysplastic syndrome after hematopoietic stem-cell transplantation. J Clin Oncol. 2014;32(25):2691-2698.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Tefferi A, Idossa D, Lasho TL, et al. Mutations and karyotype in myelodysplastic syndromes: tP53 clusters with monosomal karyotype, RUNX1 with trisomy 21, and SF3B1 with inv(3)(q21q26.2) and del(11q). Blood Cancer J. 2017;7(12):658.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Arber DA, Orazi A, Hasserjian R, et al. The 2016 revision to the World Health Organization classification of myeloid neoplasms and acute leukemia. Blood. 2016;127(20):2391-2405.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Schanz J, Tuchler H, Sole F, et al. New comprehensive cytogenetic scoring system for primary myelodysplastic syndromes (MDS) and oligoblastic acute myeloid leukemia after MDS derived from an international database merge. J Clin Oncol. 2012;30(8):820-829.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Tefferi A, Barosi G, Mesa RA, et al. International Working Group (IWG) consensus criteria for treatment response in myelofibrosis with myeloid metaplasia, for the IWG for Myelofibrosis Research and Treatment (IWG-MRT). Blood. 2006;108(5):1497-1503.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ogawa S. Genetics of MDS. Blood. 2019;133(10):1049-1059.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Nazha A, Narkhede M, Radivoyevitch T, et al. Incorporation of molecular data into the Revised International Prognostic Scoring System in treated patients with myelodysplastic syndromes. Leukemia. 2016;30(11):2214-2220.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ren Y, Mei C, Ye L, et al. Analysis of clinical and molecular features of MDS patients with complex karyotype in China. Blood Cells Mol Dis. 2019;75:13-19.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zhang T, Xu Y, Pan J, et al. Monosomal karyotype of chromosome 5/7 was an independent poor prognostic factor for Chinese myelodysplastic syndrome patients. Cancer Genet. 2016;209(9):423-429.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Wang N, Xu H, Li Q, et al. Monosomal karyotypes apart from complex karyotypes independently predict the outcome of myelodysplastic syndrome patients using a fluorescence in situ hybridization panel and conventional cytogenetics. Int J Lab Hematol. 2019;41(4):519-529.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Cordoba I, Gonzalez-Porras JR, Nomdedeu B, et al. Better prognosis for patients with del(7q) than for patients with monosomy 7 in myelodysplastic syndrome. Cancer. 2012;118(1):127-133.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Tasaka T, Tohyama K, Kishimoto M, et al. Myelodysplastic syndrome with chromosome 5 abnormalities: a nationwide survey in Japan. Leukemia. 2008;22(10):1874-1881.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Strickland SA, Sun Z, Ketterling RP, et al. Independent prognostic significance of monosomy 17 and impact of karyotype complexity in monosomal karyotype/complex karyotype acute myeloid leukemia: results from four ECOG-ACRIN prospective therapeutic trials. Leuk Res. 2017;59:55-64.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Diamantopoulos P, Koumbi D, Kotsianidis I, et al. The prognostic significance of chromosome 17 abnormalities in patients with myelodysplastic syndrome treated with 5-azacytidine: results from the hellenic 5-azacytidine registry. Cancer Med. 2019;8(5):2056-2063.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Haase D, Stevenson KE, Neuberg D, et al. TP53 mutation status divides myelodysplastic syndromes with complex karyotypes into distinct prognostic subgroups. Leukemia. 2019;33(7):1747-1758.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sebaa A, Ades L, Baran-Marzack F, et al. Incidence of 17p deletions and TP53 mutation in myelodysplastic syndrome and acute myeloid leukemia with 5q deletion. Genes Chromosomes Cancer. 2012;51(12):1086-1092.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Itzykson R, Thepot S, Eclache V, et al. Prognostic significance of monosomal karyotype in higher risk myelodysplastic syndrome treated with azacitidine. Leukemia. 2011;25(7):1207-1209.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Cluzeau T, Mounier N, Karsenti JM, et al. Monosomal karyotype improves IPSS-R stratification in MDS and AML patients treated with Azacitidine. Am J Hematol. 2013;88(9):780-783.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Papageorgiou SG, Vasilatou D, Kontos CK, et al. The prognostic value of monosomal karyotype (MK) in higher-risk patients with myelodysplastic syndromes treated with 5-Azacitidine: a retrospective analysis of the Hellenic (Greek) Myelodysplastic syndromes Study Group. Am J Hematol. 2018;93(7):895-901.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Welch JS, Petti AA, Miller CA, et al. TP53 and decitabine in acute myeloid leukemia and myelodysplastic syndromes. N Engl J Med. 2016;375(21):2023-2036.</Citation>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31924585</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>31</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-5835</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>89</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Leukemia research</Title>
+                <ISOAbbreviation>Leuk. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>PRIMA-1<sup>MET</sup> cytotoxic effect correlates with p53 protein reduction in TP53-mutated chronic lymphocytic leukemia cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>106288</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0145-2126(19)30733-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.leukres.2019.106288</ELocationID>
+            <Abstract>
+                <AbstractText>TP53 gene defects represent the most unfavorable prognostic factor in chronic lymphocytic leukemia (CLL). Although recently introduced small-molecule B-cell receptor signalling inhibitors have revolutionized CLL treatment, data for ibrutinib still point to impaired prognosis for TP53-affected patients. Among cancer-associated TP53 mutations, missense substitutions predominate and typically result in a high mutated-p53 protein level. Therefore, rescuing the p53 tumor suppressor function through specific small molecules restoring p53 wild-type (wt) conformation represents an attractive therapeutic strategy for cancer patients with TP53 missense mutations. We tested the effect of mutated-p53 reactivating molecule PRIMA-1<sup>MET</sup> in 62 clinical CLL samples characterized for TP53 mutations and p53 protein level. At the subtle PRIMA-1<sup>MET</sup> concentrations (1-4 μM), most samples manifested concentration-dependent viability decrease and, conversely, apoptosis induction, with the response being similar in both the TP53-mutated and TP53-wt groups, as well as in the TP53-mutated samples with p53 protein stabilization and without it. PRIMA-1<sup>MET</sup> was able to reduce mutated p53 protein in a proportion of TP53-mutated CLL samples, and this reduction correlated with a significantly stronger viability decrease and apoptosis induction than samples with stable p53 levels. CLL cells are mostly sensitive to PRIMA-1<sup>MET</sup> apart from those with stable mutated p53.</AbstractText>
+                <CopyrightInformation>Copyright © 2020 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jaskova</LastName>
+                    <ForeName>Zuzana</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Hematology and Oncology, University Hospital Brno and Faculty of Medicine, Masaryk University, Brno, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pavlova</LastName>
+                    <ForeName>Sarka</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Hematology and Oncology, University Hospital Brno and Faculty of Medicine, Masaryk University, Brno, Czech Republic; Central European Institute of Technology, Masaryk University, Brno, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malcikova</LastName>
+                    <ForeName>Jitka</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Hematology and Oncology, University Hospital Brno and Faculty of Medicine, Masaryk University, Brno, Czech Republic; Central European Institute of Technology, Masaryk University, Brno, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brychtova</LastName>
+                    <ForeName>Yvona</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Hematology and Oncology, University Hospital Brno and Faculty of Medicine, Masaryk University, Brno, Czech Republic.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trbusek</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Hematology and Oncology, University Hospital Brno and Faculty of Medicine, Masaryk University, Brno, Czech Republic. Electronic address: Trbusek.Martin@fnbrno.cz.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Leuk Res</MedlineTA>
+            <NlmUniqueID>7706787</NlmUniqueID>
+            <ISSNLinking>0145-2126</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Apoptosis</Keyword>
+            <Keyword MajorTopicYN="N">Chronic lymphocytic leukemia</Keyword>
+            <Keyword MajorTopicYN="N">PRIMA-1(MET)</Keyword>
+            <Keyword MajorTopicYN="N">TP53/p53</Keyword>
+        </KeywordList>
+        <CoiStatement>Declaration of Competing Interest None.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31924585</ArticleId>
+            <ArticleId IdType="pii">S0145-2126(19)30733-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.leukres.2019.106288</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30899304</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1734-1922</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Archives of medical science : AMS</Title>
+                <ISOAbbreviation>Arch Med Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MiR-21, miR-34a, miR-125b, miR-181d and miR-648 levels inversely correlate with MGMT and TP53 expression in primary glioblastoma patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>504-512</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5114/aoms.2017.69374</ELocationID>
+            <Abstract>
+                <AbstractText Label="Introduction" NlmCategory="UNASSIGNED"><i>TP53</i> and <i>MGMT</i> alterations play a crucial role in glioblastoma (GB) pathogenesis. <i>TP53</i> and <i>MGMT</i> function is affected by several pathologic mechanisms, such as point mutations or promoter methylation, which are well characterized. Expression of both genes can be regulated by other mechanisms as well, e.g., microRNAs (miRNAs). Moreover, cross-talk among various pathologic processes may occur, further affecting <i>MGMT</i> and <i>TP53</i> functionality.</AbstractText>
+                <AbstractText Label="Material and methods" NlmCategory="UNASSIGNED">In 49 GB patients, we analyzed the possible associations between <i>TP53</i> and its miRNA regulators <i>miR-125b</i>, <i>miR-21</i>, and <i>miR-34a</i>, as well as <i>MGMT</i> and its miRNA regulators <i>miR-181d</i> and <i>miR-648</i>. We evaluated the possible influence of mutational and methylation status on the pre-identified associations.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">In patients with immunohistochemistry-detected <i>TP53</i> overexpression, expression levels of <i>miR-34a</i> and <i>TP53</i> were negatively correlated (<i>r</i> = -0.56, <i>p</i> = 0.0195), and in patients with <i>TP53</i> mutations, expression levels of <i>TP53</i> and <i>miR-21</i> were negatively correlated (<i>r</i> = -0.67, <i>p</i> = 0.0330). In patients with <i>MGMT</i> methylation, expression levels of <i>MGMT</i> were negatively correlated with <i>miR-648</i> and <i>miR-125b</i> expression levels (<i>r</i> = -0.61, <i>p</i> = 0.0269 and <i>r</i> = -0.34, <i>p</i> = 0.0727, respectively).</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">Our findings demonstrate that selected miRNAs are significantly correlated with <i>MGMT</i> and <i>TP53</i> levels, but the extent of this correlation differs regarding the <i>TP53</i> and <i>MGMT</i> mutational and promoter methylation status.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jesionek-Kupnicka</LastName>
+                    <ForeName>Dorota</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Chair of Oncology, Medical University of Lodz, Lodz, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Braun</LastName>
+                    <ForeName>Marcin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Chair of Oncology, Medical University of Lodz, Lodz, Poland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Postgraduate School of Molecular Medicine, Medical University of Warsaw, Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trąbska-Kluch</LastName>
+                    <ForeName>Berenika</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy, Medical University of Lodz, Lodz, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Czech</LastName>
+                    <ForeName>Joanna</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, Chair of Molecular Medicine, Faculty of Medicine, University of Rzeszow, Rzeszow, Poland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Biology, Centre for Innovative Research in Medical and Natural Sciences, University of Rzeszow, Rzeszow, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Szybka</LastName>
+                    <ForeName>Małgorzata</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Laboratory Medical Immunology, Faculty of Medicine, Medical University of Lodz, Lodz, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Szymańska</LastName>
+                    <ForeName>Bożena</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Central Scientific Laboratory, Medical University of Lodz, Lodz, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kulczycka-Wojdala</LastName>
+                    <ForeName>Dominika</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Central Scientific Laboratory, Medical University of Lodz, Lodz, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bieńkowski</LastName>
+                    <ForeName>Michał</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathomorphology, Medical University of Gdansk, Gdansk, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kordek</LastName>
+                    <ForeName>Radzisław</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Chair of Oncology, Medical University of Lodz, Lodz, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zawlik</LastName>
+                    <ForeName>Izabela</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, Chair of Molecular Medicine, Faculty of Medicine, University of Rzeszow, Rzeszow, Poland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Molecular Biology, Centre for Innovative Research in Medical and Natural Sciences, University of Rzeszow, Rzeszow, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Arch Med Sci</MedlineTA>
+            <NlmUniqueID>101258257</NlmUniqueID>
+            <ISSNLinking>1734-1922</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">GB</Keyword>
+            <Keyword MajorTopicYN="N">MGMT</Keyword>
+            <Keyword MajorTopicYN="N">O6-methylguanine-DNA methyltransferase</Keyword>
+            <Keyword MajorTopicYN="N">TP53</Keyword>
+            <Keyword MajorTopicYN="N">microRNA</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare no conflict of interest. References1LouisDNPerryAReifenbergerGThe 2016 World Health Organization Classification of Tumors of the Central Nervous System: a summaryActa Neuropathol201613180320271579312HongYShiYShangCInfluence of far upstream element binding protein 1 gene on chemotherapy sensitivity in human U251 glioblastoma cellsArch Med Sci20161215662269251323StuppRMasonWPvan den BentMJRadiotherapy plus concomitant and adjuvant temozolomide for glioblastomaN Engl J Med200535298796157580094StuppRHegiMEMasonWPEffects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5-year analysis of the EORTC-NCIC trialLancet Oncol20091045966192698955AlifierisCTrafalisDTGlioblastoma multiforme: pathogenesis and treatmentPharmacol Ther20151526382259445286VlachostergiosPJPapandreouCNEfficacy of low dose temozolomide in combination with bortezomib in U87 glioma cells: a flow cytometric analysisArch Med Sci20151130710259957457HegiMEDiserensACGorliaTMGMT gene silencing and benefit from temozolomide in glioblastomaN Engl J Med20053529971003157580108PreusserMde RibaupierreSWöhrerACurrent concepts and management of glioblastomaAnn Neurol201170921217862969OhgakiHKleihuesPThe definition of primary and secondary glioblastomaClin Cancer Res201319764722320903310Cancer Genome Atlas Research Network. Comprehensive genomic characterization defines human glioblastoma genes and core pathwaysNature2008455106181877289011OhgakiHKleihuesPEpidemiology and etiology of gliomasActa Neuropathol2005109931081568543912McLendonRFriedmanABignerDComprehensive genomic characterization defines human glioblastoma genes and core pathwaysNature2008455106181877289013AmatyaVJNaumannUWellerMOhgakiHTP53 promoter methylation in human gliomasActa Neuropathol2005110178841602528714Jesionek-KupnickaDSzybkaMMalachowskaBTP53 promoter methylation in primary glioblastoma: relationship with TP53 mRNA and protein expression and mutation statusDNA Cell Biol201433217262450654515FengZZhangCWuRHuWTumor suppressor p53 meets microRNAsJ Mol Cell Biol2011344502127845116DunnJBaborieAAlamFExtent of MGMT promoter methylation correlates with outcome in glioblastomas given temozolomide and radiotherapyBr J Cancer2009101124311953609617Jesien-LewandowiczEJesionek-KupnickaDZawlikIHigh incidence of MGMT promoter methylation in primary glioblastomas without correlation with TP53 gene mutationsCancer Genet Cytogenet200918877821910050918CrinièreEKaloshiGLaigle-DonadeyFMGMT prognostic impact on glioblastoma is dependent on therapeutic modalitiesJ Neurooncol20078317391721905619KrethSLimbeckEHinskeLCIn human glioblastomas transcript elongation by alternative polyadenylation and miRNA targeting is a potent mechanism of MGMT silencingActa Neuropathol2013125671812334098820FanYNMeleyDPizerBSeeVMir-34a mimics are potential therapeutic agents for p53-mutated and chemo-resistant brain tumour cellsPLoS One20149e1085142525081821FreemanJAEspinosaJMThe impact of post-transcriptional regulation in the p53 networkBrief Funct Genomics20131246572324217822ShiLZhangSFengKMicroRNA-125b-2 confers human glioblastoma stem cells resistance to temozolomide through the mitochondrial pathway of apoptosisInt J Oncol201240119292187925723BradleyBSLoftusJCMielkeCJDinuVDifferential expression of microRNAs as predictors of glioblastoma phenotypesBMC Bioinformatics201415212443817124KarsyMGelbmanMShahPBalumbuOMoyFArslanEEstablished and emerging variants of glioblastoma multiforme: review of morphological and molecular featuresFolia Neuropathol201250301212331918725DongHSiuHLuoLFangXJinLXiongMInvestigating gene and microRNA expression in glioblastomaBMC Genomics200911172226ChangTCWentzelEAKentOATransactivation of miR-34a by p53 broadly influences gene expression and promotes apoptosisMol Cell200726745521754059927HeLHeXLoweSWHannonGJSuppression puzzleNat Rev Cancer20077819221791440428TazawaHTsuchiyaNIzumiyaMNakagamaHTumor-suppressive miR-34a induces senescence-like growth arrest through modulation of the E2F pathway in human colon cancer cellsProc Natl Acad Sci USA20071041547271787598729LeMTNTehCShyh-ChangNMicroRNA-125b is a novel negative regulator of p53Genes Dev200923862761929328730HaemmigSBaumgartnerUGlückAmiR-125b controls apoptosis and temozolomide resistance by targeting TNFAIP3 and NKIRAS2 in glioblastomasCell Death Dis20145e12792490105031ZhangWZhangJHoadleyKMiR-181d: predictive glioblastoma biomarker that downregulates MGMT expressionNeuro Oncol20121471292257042632LouisDNOhgakiHWiestlerODThe 2007 WHO classification of tumours of the central nervous systemActa Neuropathol2007114971091761844133NagpalJJamoonaAGulatiNDRevisiting the role of p53 in primary and secondary glioblastomasAnticancer Res200626463391721431934PreusserMMGMT analysis at DNA, RNA and protein levels in glioblastoma tissueHistol Histopathol20092451181922445435CapperDMittelbronnMMeyermannRSchittenhelmJPitfalls in the assessment of MGMT expression and in its correlation with survival in diffuse astrocytomas: proposal of a feasible immunohistochemical approachActa Neuropathol2008115249591796586536YunqingLGuessousFYingZMicroRNA-34a inhibits glioblastoma growth by targeting multiple oncogenesCancer Res2009697569761977344137GaoHZhaoHXiangWExpression level of human miR-34a correlates with glioma grade and prognosisJ Neurooncol201311322182352979838TsudaHHirohashiSAssociation among p53 gene mutation, nuclear accumulation of the p53 protein and aggressive phenotypes in breast cancerInt J Cancer199457498503791015139EsrigDSpruckCHNicholsPWp53 nuclear protein accumulation correlates with mutations in the p53 gene, tumor grade, and stage in bladder cancerAm J Pathol1993143138997790199440RenFZhangXLiangHPrognostic significance of MiR-34a in solid tumors: a systemic review and meta-analysis with 4030 patientsInt J Clin Exp Med2015817377912677032941MrazMMalinovaKKotaskovaJmiR-34a, miR-29c and miR-17-5p are downregulated in CLL patients with TP53 abnormalitiesLeukemia2009231159631915883042VoliniaSCalinGALiuCGA microRNA expression signature of human solid tumors defines cancer gene targetsProc Natl Acad Sci USA20061032257611646146043SilberJLimDAPetritschCmiR-124 and miR-137 inhibit proliferation of glioblastoma multiforme cells and induce differentiation of brain tumor stem cellsBMC Med20086141857721944SlabyOLakomyRFadrusPMicroRNA-181 family predicts response to concomitant chemoradiotherapy with temozolomide in glioblastoma patientsNeoplasma20105726492035327945RaoSASantoshVSomasundaramKGenome-wide expression profiling identifies deregulated miRNAs in malignant astrocytomaMod Pathol2010231404172071117146YangCHYueJPfefferSRMicroRNA-21 promotes glioblastoma tumorigenesis by down-regulating insulin-like growth factor-binding protein-3 (IGFBP3)J Biol Chem201428925079872505966647BarbanoRPalumboOPasculliBA miRNA signature for defining aggressive phenotype and prognosis in gliomasPLoS One20149e1089502527946148KushwahaDRamakrishnanVNgKA genomewide miRNA screen revealed miR-603 as a MGMT-regulating miRNA in glioblastomasOncotarget201454026392499411949StarkAMvan de BerghJHedderichJMehdornHMNabaviAGlioblastoma: clinical characteristics, prognostic factors and survival in 492 patientsClin Neurol Neurosurg201211484052237733350FilippiniGFalconeCBoiardiAPrognostic factors for survival in 676 consecutive patients with newly diagnosed primary glioblastomaNeuro Oncol20081079871799363451ZawlikIVaccarellaSKitaDMittelbronnMFranceschiSOhgakiHPromoter methylation and polymorphisms of the MGMT gene in glioblastomas: a population-based studyNeuroepidemiology2009322191899747452Jesionek-KupnickaDSzybkaMPotemskiPAssociation of loss of heterozygosity with shorter survival in primary glioblastoma patientsPol J Pathol2013642687524375041</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>03</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30899304</ArticleId>
+            <ArticleId IdType="doi">10.5114/aoms.2017.69374</ArticleId>
+            <ArticleId IdType="pii">30454</ArticleId>
+            <ArticleId IdType="pmc">PMC6425218</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32007736</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1568-7856</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>88</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Jan</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>DNA repair</Title>
+                <ISOAbbreviation>DNA Repair (Amst.)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cancer type-dependent correlations between TP53 mutations and antitumor immunity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>102785</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1568-7864(19)30372-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dnarep.2020.102785</ELocationID>
+            <Abstract>
+                <AbstractText>Many studies have shown that TP53 mutations play a negative role in antitumor immunity. However, a few studies reported that TP53 mutations could promote antitumor immunity. To explain these contradictory findings, we analyzed five cancer cohorts from The Cancer Genome Atlas (TCGA) project. We found that TP53-mutated cancers had significantly higher levels of antitumor immune signatures than TP53-wildtype cancers in breast invasive carcinoma (BRCA) and lung adenocarcinoma (LUAD). In contrast, TP53-mutated cancers had significantly lower antitumor immune signature levels than TP53-wildtype cancers in stomach adenocarcinoma (STAD), colon adenocarcinoma (COAD), and head and neck squamous cell carcinoma (HNSC). Moreover, TP53-mutated cancers were more likely to have a higher tumor mutation burden (TMB) and tumor aneuploidy level (TAL) than TP53-wildtype cancers. However, the TMB differences were more marked between TP53-mutated and TP53-wildtype cancers than the TAL differences in BRCA and LUAD, and the TAL differences were more significant in STAD and COAD. Furthermore, we showed that TMB and TAL had a positive and a negative correlation with antitumor immunity and that TMB affected antitumor immunity more than TAL did in BRCA and LUAD while TAL affected antitumor immunity more strongly than TMB in STAD and HNSC. These findings indicate that the distinct correlations between TP53 mutations and antitumor immunity in different cancer types are a consequence of the joint effect of the altered TMB and TAL caused by TP53 mutations on tumor immunity. In addition, the deregulation of p53-mediated pathways, including cell cycle and apoptosis, may also contribute to the different correlations of TP53 mutations with antitumor immunity between different cancer cohorts. Furthermore, we demonstrated the different correlations of TP53 mutations with the response to immune checkpoint inhibitors between different cancer cohorts, suggesting that the TP53 mutation status could be a useful biomarker for predicting the response to cancer immunotherapy in different cancer types.</AbstractText>
+                <CopyrightInformation>Copyright © 2020 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Informatics Research Lab, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, 211198, China; Cancer Genomics Research Center, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, 211198, China; Big Data Research Institute, China Pharmaceutical University, Nanjing, 211198, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Mengyuan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Informatics Research Lab, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, 211198, China; Cancer Genomics Research Center, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, 211198, China; Big Data Research Institute, China Pharmaceutical University, Nanjing, 211198, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiaosheng</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Informatics Research Lab, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, 211198, China; Cancer Genomics Research Center, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, 211198, China; Big Data Research Institute, China Pharmaceutical University, Nanjing, 211198, China. Electronic address: xiaosheng.wang@cpu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>DNA Repair (Amst)</MedlineTA>
+            <NlmUniqueID>101139138</NlmUniqueID>
+            <ISSNLinking>1568-7856</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antitumor immunity</Keyword>
+            <Keyword MajorTopicYN="N">Genomic instability</Keyword>
+            <Keyword MajorTopicYN="N">Immunotherapy response</Keyword>
+            <Keyword MajorTopicYN="N">TP53 mutations</Keyword>
+            <Keyword MajorTopicYN="N">Tumor aneuploidy level</Keyword>
+            <Keyword MajorTopicYN="N">Tumor mutation burden</Keyword>
+        </KeywordList>
+        <CoiStatement>Declaration of Competing Interest The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32007736</ArticleId>
+            <ArticleId IdType="pii">S1568-7864(19)30372-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dnarep.2020.102785</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31986125</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1945-4589</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Jan</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Aging</Title>
+                <ISOAbbreviation>Aging (Albany NY)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>TP53/miR-34a-associated signaling targets <i>SERPINE1</i> expression in human pancreatic cancer.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/aging.102776</ELocationID>
+            <Abstract>
+                <AbstractText>Pancreatic ductal adenocarcinoma (PDAC) is a disease of aging. The <i>TP53</i> gene product regulates cell growth, aging, and cancer. To determine the important targets of TP53 in PDAC, we examined the expression of 440 proteins on a reverse phase protein array (RPPA) in PDAC-derived MIA-PaCa-2 cells which either had WT-<i>TP53</i> or lacked WT-<i>TP53</i>. MIA-PaCa-2 cells have a <i>TP53</i> mutation as well as mutant <i>KRAS</i> and represent a good <i>in vitro</i> model to study PDAC. RPPA analysis demonstrated expression of tumor promoting proteins in cells that lacked WT-<i>TP53</i>; and this feature could be reversed significantly when the cells were transfected with vector encoding WT-<i>TP53</i> or treated with berberine or a modified berberine (BBR). Expression of miR-34a-associated signaling was elevated in cells expressing WT-<i>TP53</i> compared to cells expressing <i>mTP53</i>. Results from <i>in vivo</i> studies using human PDAC specimens confirmed the <i>in vitro</i> results as the expression of miR-34a and associated signaling was significantly decreased in PDAC specimens compared to non-cancerous tissues. This study determined <i>SERPINE1</i> as a miR-34a target with relevance to the biology of PDAC. Thus, we have identified a key target (<i>SERPINE1</i>) of the TP53/miR-34a axis that may serve as a potential biomarker for early detection of pancreatic cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Akula</LastName>
+                    <ForeName>Shaw M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, Brody School of Medicine, East Carolina University, Greenville, NC 27834,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ruvolo</LastName>
+                    <ForeName>Peter P</ForeName>
+                    <Initials>PP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Leukemia, University of Texas MD Anderson Cancer Center, Houston, TX 77030, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCubrey</LastName>
+                    <ForeName>James A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, Brody School of Medicine, East Carolina University, Greenville, NC 27834,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Aging (Albany NY)</MedlineTA>
+            <NlmUniqueID>101508617</NlmUniqueID>
+            <ISSNLinking>1945-4589</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Aging</Keyword>
+            <Keyword MajorTopicYN="N">PDAC</Keyword>
+            <Keyword MajorTopicYN="N">SERPINE1</Keyword>
+            <Keyword MajorTopicYN="N">TP53</Keyword>
+            <Keyword MajorTopicYN="N">cancer</Keyword>
+            <Keyword MajorTopicYN="N">miR-34a</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31986125</ArticleId>
+            <ArticleId IdType="doi">10.18632/aging.102776</ArticleId>
+            <ArticleId IdType="pii">102776</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

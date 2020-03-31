@@ -1,0 +1,8 @@
+nltk==3.4
+objgraph==3.4.0
+python-dateutil==2.7.5
+requests==2.21.0
+tqdm==4.28.1
+unidecode
+lxml
+pytest
