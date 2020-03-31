@@ -1,10 +1,10 @@
 # Postprocessing
 
-Pangaea tool provides a scalable way of fetching NCBI abstracts that match specific keywords, parse the texts, and extract relationships between specific genes. The output of this process is a JSON file that the user can analyze according to their downstream needs. To provide an example of how the JSON file may be processed, we provide a Jupyter notebook file that loads a JSON file and shows several ways to visualize the data.
+Pangaea tool provides a scalable way of fetching NCBI abstracts that match specific keywords, parse the texts, and extract relationships between specific genes. The output of this process is a JSON file that the user can analyze according to their downstream needs. To provide an example of how the JSON file may be processed, we provide a Jupyter notebook file that loads a JSON file and shows several ways to visualise the data.
 
 ## Availability
 
-Notebook available in the `notebooks` directory placed in the repository root directory: `/notebooks/03.0-visualization.ipynb`.
+Notebook available in the `notebooks` directory placed in the repository root directory: [notebooks/visualisation.ipynb](https://github.com/ss-lab-cancerunit/pangaea/blob/master/notebooks/visualization.ipynb).
 
 ![visualization examples](img/visualization.png)
 
@@ -12,9 +12,9 @@ Notebook available in the `notebooks` directory placed in the repository root di
 
 In the notebook, we present how a user may:
 
-### 1. Visualize interactions
+### 1. Visualise interactions
 
-The JSON file encodes interactions that can be stored in a graph format and visualized. During visualisation, properties such as number of connections are highlighted through graph properties such as node size, which can further highlight important genes. Similarly, graph visualizing algorithms can make use of clustering to present partitions of genes and interactions that may show a higher degree of connectivity (relationships.)
+The JSON file encodes interactions that can be stored in a graph format and visualised. During visualisation, properties such as number of connections are highlighted through graph properties such as node size, which can further highlight important genes. Similarly, graph visualizing algorithms can make use of clustering to present partitions of genes and interactions that may show a higher degree of connectivity (relationships.)
 
 ### 2. Get recommended interactions that do not exist in a pathway
 

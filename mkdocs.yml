@@ -5,4 +5,4 @@ nav:
     - Developing: code.md
     - Postprocessing: postprocessing.md
 theme: readthedocs
-repo_url: https://gitlab.com/liviux/pangaea-test
+repo_url: https://github.com/ss-lab-cancerunit/pangaea
