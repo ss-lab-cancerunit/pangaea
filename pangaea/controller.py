@@ -41,7 +41,7 @@ def get_args():
     )
     parent_parser.add_argument(
         '--cores', '-c', type=int, dest='cores', default=0,
-        help='Select the model used for parsing the text'
+        help='Choose number of cores to be used for processing'
     )
 
     # Download parser
