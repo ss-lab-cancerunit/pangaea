@@ -49,6 +49,8 @@ By default, the tool downloads only the first 10 results. To change the limit pa
 
     $ pangaea download "mdm2 or tp53" --number 20000
 
+For advanced search syntax, the tool uses PubMed functionality; more details [here](https://www.ncbi.nlm.nih.gov/pubmed/advanced).
+
 ## Existing XML file
 
 The XML file may be generated using [download-entrez](https://github.com/ss-lab-cancerunit/download-entrez). To pass an XML file to the tool, just type in the name of the file after the mode.
