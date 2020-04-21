@@ -11,17 +11,31 @@ The output of the tool is a JSON file containing the interactions found. Unless 
 
 ## Quickstart
 
-### Requirements
+### Requirements:
 
-- Linux 
-- `python3.4` or newer
+- `python 3.4` or newer
+- `git`
+- `libxml2-devel` (or `libxml2-dev`)
+- `libxslt-devel` (or `libxslt-dev`)
+- `python-lxml`
 
-If you are not using Fedora or CentOS, you may have to separately install `libxml2-devel` (or `libxml2-dev`), `libxslt-devel` (or `libxslt-dev`), and `python-lxml`.
+Clone the repository:
 
-### Install
+    $ git clone https://github.com/ss-lab-cancerunit/pangaea
+    $ cd pangaea
 
-    $ pip3 install pangaea
+Next, to install the tool:
 
+    $ python3 -m pip install .
+
+If `nltk` does not download the necessary resources automatically, please download them manually:
+
+```
+$ python3
+>>> import nltk
+>>> nltk.download('punkt')
+>>> nltk.download('averaged_perceptron_tagger')
+```
 
 ### Usage
 
