@@ -4,9 +4,9 @@ Pangaea tool provides a scalable way of fetching NCBI abstracts that match speci
 
 ## Availability
 
-Notebook available in the `notebooks` directory placed in the repository root directory: [notebooks/visualisation.ipynb](https://github.com/ss-lab-cancerunit/pangaea/blob/master/notebooks/visualization.ipynb).
+Notebook available in the `notebooks` directory placed in the repository root directory: [notebooks/visualisation.ipynb](https://github.com/ss-lab-cancerunit/pangaea/blob/master/notebooks/visualisation.ipynb).
 
-![visualization examples](img/visualization.png)
+![visualisation examples](img/visualisation.png)
 
 ## Summary
 
