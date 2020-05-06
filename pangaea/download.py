@@ -58,8 +58,6 @@ def get_xml(query_key, web_env, count, output_file):
     This downloads in batches of `MAX_POST_LIMIT` to adhere
     to the rules imposed by Entrez API
     """
-    if os.path.isfile(output_file):
-        sys.exit('ERROR: Output file already exists.')
     print("Downloading {:,} results to {}".format(count, output_file))
     with open(output_file, "ab") as text_file:
         for retstart in range(0, count, MAX_POST_LIMIT):
@@ -180,6 +178,8 @@ def parse_filename(filename):
 
 def download_pubmed(terms, number, output_filename, sort='relevance', ids_flag=False, debug=False):
     output_filename = parse_filename(output_filename)
+    if os.path.isfile(output_filename):
+        sys.exit('ERROR: Output file already exists.')
     ids = get_ids(terms, number, sort, debug=debug)
     if not ids:
         sys.exit('No articles were found.')
