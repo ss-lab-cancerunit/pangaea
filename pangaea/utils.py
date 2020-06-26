@@ -30,6 +30,7 @@ def process_synonyms(genes, synonyms_file):
                 if synonym.lower() in targets_lower:
                     target_to_syns[synonym] = synonyms
                     target_to_syns[synonym].append(symbol)
+                    break
 
     return target_to_syns
 
