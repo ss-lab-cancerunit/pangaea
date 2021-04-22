@@ -16,7 +16,7 @@ POST_URL = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/epost.fcgi'
 
 MAX_POST_LIMIT = 1000
 MAX_IDS_LIMIT = 100000
-BATCH_IDS = 1000000
+BATCH_IDS = 3000
 OUTPUT_EXT = 'xml'
 SLEEP_TIME = 1
 LARGER_SLEEP_TIME = 60
@@ -52,16 +52,15 @@ def fix_format(output_file):
     return output_file
 
 
-def get_xml(query_key, web_env, count, output_file):
+def get_xml(query_key, web_env, count, output_file, offset=0):
     """Get XML files from the Entrez queue
 
     This downloads in batches of `MAX_POST_LIMIT` to adhere
     to the rules imposed by Entrez API
     """
-    print("Downloading {:,} results to {}".format(count, output_file))
     with open(output_file, "ab") as text_file:
         for retstart in range(0, count, MAX_POST_LIMIT):
-            print("Downloading from ID {:,}...".format(retstart))
+            print("Downloading from ID {:,}...".format(retstart + offset))
             time.sleep(SLEEP_TIME)
             payload = {
                 'db': 'pubmed',
@@ -81,7 +80,6 @@ def get_xml(query_key, web_env, count, output_file):
                 time.sleep(LARGER_SLEEP_TIME)
                 continue
             text_file.write(r.text.encode('utf-8'))
-    fix_format(output_file)
 
 
 
@@ -186,10 +184,12 @@ def download_pubmed(terms, number, output_filename, sort='relevance', ids_flag=F
     if ids_flag:
         save_ids(ids, output_filename)
         return output_filename
+    print("Downloading {:,} results to {}".format(len(ids), output_filename))
     for index in range(0, len(ids), BATCH_IDS):
         ids_slice = ids[index: index + BATCH_IDS]
         web_env, query_key, count = post_ids(ids_slice)
-        get_xml(web_env, query_key, count, output_filename)
+        get_xml(web_env, query_key, count, output_filename, offset=index)
+    fix_format(output_filename)
     return output_filename
 
 
