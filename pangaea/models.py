@@ -52,20 +52,6 @@ class NERTagger:
                     genes.append(word)
         return set(genes)
 
-import pdb, sys
-class ForkedPdb(pdb.Pdb):
-    """A Pdb subclass that may be used
-    from a forked multiprocessing child
-
-    """
-    def interaction(self, *args, **kwargs):
-        _stdin = sys.stdin
-        try:
-            sys.stdin = open('/dev/stdin')
-            pdb.Pdb.interaction(self, *args, **kwargs)
-        finally:
-            sys.stdin = _stdin
-
 
 class RulesExtractor(RelationsExtractor):
     N = 4 # Number of words in n-grams
@@ -118,8 +104,7 @@ class RulesExtractor(RelationsExtractor):
                         if gene in new_word:
                             detected_genes.add(self.genes_long[gene])
 
-            if len(detected_genes) > 1:
-                relations.append({'Genes': list(detected_genes), 'Stems': relevant_stems, 'Sentence': sentence})
+            relations.append({'Genes': list(detected_genes), 'Stems': relevant_stems, 'Sentence': sentence})
         return relations
 
     def process_genes(self, genes_file, synonyms_file):

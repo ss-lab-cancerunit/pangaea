@@ -22,34 +22,34 @@ SLEEP_TIME = 1
 LARGER_SLEEP_TIME = 60
 
 END_TAG = '</PubmedArticleSet>'
+START_TAG = '<PubmedArticle>'
 
-def fix_format(output_file):
+def postprocess_text(output_file):
     """Fix the XML file
 
-    Because the data is downloaded in batches of `MAX_POST_LIMIT`,
-    there are multiple XML files concatenated together.
-    However, parsers typically expect a single continuous
-    XML document within an XML file, so the printing process
-    will filter tags introduced due to the merge of XML documents.
-
-    This function calls external tools such as the shell and `sed`
-    to make the process quick.
+    During the preprocessing, we delete the endtags to construct
+    a contiguous XML file, so we add the tag here once the file
+    has been written to.
     """
-    subprocess.call([
-        'sed', # Call `sed`
-        '-i',  # Replace the file being processed (instead of outputting to `stdout` for instance)
-        '-r',  # Allow advanced regular expressions
-        # Skip first four lines, and delete all matches of:
-        # <?xml vers, <!DOCTYPE, </PubmedArticleSet>, or <PubmedArticleSet>
-        # if they appear at the beginning of a line.
-        r'4,${/(^<\?xml vers)|(^<!DOCTYPE)|(^<\/?PubmedArticleSet>)/d}',
-        output_file])
-    # Because the final </PubmedArticleSet> was deleted as well above,
-    # add the closing tag at the end of the file
     with open(output_file, 'a') as text_file:
         text_file.write(END_TAG)
 
     return output_file
+
+def preprocess_text(text, first_article):
+    """Fix XML text
+
+    Because multiple calls are made to retrieve the text,
+    there are also multiple endtags. However, we want only
+    one contiguous XML file, so the endtags are removed here."""
+
+    end_index = text.find(END_TAG)
+    if first_article: # Keep starting tags for the first article
+        text = text[:end_index]
+    else:
+        start_index = text.find(START_TAG)
+        text = text[start_index:end_index]
+    return text
 
 
 def get_xml(query_key, web_env, count, output_file, offset=0):
@@ -79,7 +79,9 @@ def get_xml(query_key, web_env, count, output_file, offset=0):
                 print("Request failed. Waiting {} seconds".format(LARGER_SLEEP_TIME))
                 time.sleep(LARGER_SLEEP_TIME)
                 continue
-            text_file.write(r.text.encode('utf-8'))
+            
+            text = preprocess_text(r.text, offset == retstart)
+            text_file.write(text.encode('utf-8'))
 
 
 
@@ -189,7 +191,7 @@ def download_pubmed(terms, number, output_filename, sort='relevance', ids_flag=F
         ids_slice = ids[index: index + BATCH_IDS]
         web_env, query_key, count = post_ids(ids_slice)
         get_xml(web_env, query_key, count, output_filename, offset=index)
-    fix_format(output_filename)
+    postprocess_text(output_filename)
     return output_filename
 
 
