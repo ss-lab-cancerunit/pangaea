@@ -86,7 +86,7 @@ At the moment, the gene extraction uses the following workflow:
     - This is done using the dictionary from the [stems.csv](data/raw/stems.csv) file
 - Eliminate all punctuation
     - It is not clear whether it'd be better to keep dashes ("-")
-- Convery sentence to lowercase
+- Convert sentence to lowercase
 - Use a word tokenizer to split the sentence into words
     - At the moment, it uses [Treebank tokenizer](http://www.nltk.org/api/nltk.tokenize.html#module-nltk.tokenize.punkt) as implemented in NLTK
 - Remove stopwords
