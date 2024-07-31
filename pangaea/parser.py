@@ -42,7 +42,7 @@ class Parser:
             dict: A dictionary containing the relevant information of a
                 single article.
         """
-        for event, elem in etree.iterparse(self.xml_file, events=('end',), tag='PubmedArticle'):
+        for event, elem in etree.iterparse(self.xml_file, events=('end',), tag='PubmedArticle', recover=True):
             current_article = {}
             medline_citation = elem.find('MedlineCitation')
             article = medline_citation.find('Article')
